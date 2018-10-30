@@ -1,0 +1,6 @@
+{"snmpinfo":"172.18.19.240 [public] KONICA MINOLTA bizhub 283"}
+{"snmpinfo":"172.18.19.186 [public] Siemens, SIMATIC S7,CPU319-3 PN/DP,6ES7 318-3FL01-0AB0, HW: 6, FW: V3.2.7, S C-D1T261962012"}
+{"vuln":{"ip":"172.18.19.241","vuln_msg":"永恒之蓝漏洞"}}
+{"vuln":{"ip":"172.18.19.241","vuln_msg":"远程溢出漏洞"}}
+{"vuln":{"ip":"172.18.19.241","vuln_msg":"iis短文件漏洞"}}
+{"vuln":{"ip":"172.18.19.241","vuln_msg":"远程桌面漏洞"}}
